@@ -1,0 +1,2 @@
+# SMIT
+GIT/GITHUB
